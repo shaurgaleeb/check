@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color:cadetblue
+}
+h1 i{
+    color:coral
+}
+i:hover{
+    color:darkgreen;
+    text-shadow: 2px 2px 3px 3px azure;
+}
